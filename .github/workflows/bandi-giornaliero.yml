@@ -1,0 +1,51 @@
+name: Monitor bandi giornaliero
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # ogni giorno alle 05:17 UTC (07:17 ora italiana estiva)
+  workflow_dispatch:
+    inputs:
+      rianalizza:
+        description: "Rianalizza anche i bandi invariati"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bandi-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Analizza i bandi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python -m bandi_monitor ${{ inputs.rianalizza && '--rianalizza' || '' }}
+
+      - name: Salva database e report
+        if: always()
+        run: |
+          git config user.name "bandi-monitor"
+          git config user.email "bandi-monitor@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Aggiornamento bandi $(date -u +%F)"
+          git push

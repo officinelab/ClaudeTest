@@ -1,0 +1,46 @@
+# Configurazione del monitor dei bandi.
+# Modifica questo file per aggiungere nuove fonti o cambiare il tuo profilo.
+
+# Descrivi la tua attività: Claude la usa per valutare quanto ogni bando è pertinente.
+profilo: >
+  Studio professionale di architettura in Sardegna (libero professionista / piccola impresa).
+  Interessi: progettazione architettonica, rigenerazione urbana, efficienza energetica,
+  restauro e beni culturali, innovazione e digitalizzazione dello studio, formazione,
+  internazionalizzazione, contributi per professionisti e PMI.
+
+# Parole chiave che aumentano la pertinenza anche senza API (filtro di riserva).
+parole_chiave:
+  - architett
+  - professionist
+  - liberi professionisti
+  - progettazione
+  - edilizia
+  - energ
+  - rigenerazione
+  - PMI
+  - micro impres
+  - digitalizzazione
+
+fonti:
+  - nome: Sardegna Ricerche - Bandi aperti
+    url: "https://www.sardegnaricerche.it/index.php?xsl=558&v=9&s=13&c=4200&nc=1&tipodoc=3&esito=0&scaduti=0"
+    # Facoltativi: se il riconoscimento automatico dei link non funziona, indica
+    # un selettore CSS per i link ai bandi (es. "div.elenco a") oppure una regex sull'URL.
+    selettore_link: null
+    regex_link: null
+    max_pagine: 5
+
+analisi:
+  # Modello Claude usato per leggere i documenti e compilare la scheda.
+  modello: claude-opus-5-5
+  effort: medium
+  # Limite di caratteri di testo inviati per bando (il resto viene segnalato come troncato).
+  max_caratteri: 400000
+  # Numero massimo di allegati scaricati per bando.
+  max_allegati: 15
+  # Dimensione massima di un singolo allegato (MB).
+  max_mb_allegato: 25
+
+output:
+  cartella: docs
+  database: data/bandi.db
