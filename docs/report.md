@@ -1,8 +1,8 @@
-# Bandi attivi — aggiornamento del 08/10/2026
+# Bandi attivi — aggiornamento del 09/10/2026
 
-10 bandi attivi, 10 nuovi oggi. Ordinati per pertinenza.
+10 bandi attivi, 0 nuovi oggi. Ordinati per pertinenza.
 
-## [Visualizza i documenti (116543)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116543&va=) 🆕
+## [Visualizza i documenti (116543)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116543&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: architett, professionist, liberi professionisti, energ, PMI, micro impres
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -12,7 +12,7 @@
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (116434)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116434&va=) 🆕
+## [Visualizza i documenti (116434)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116434&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -22,7 +22,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (117074)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=117074&va=) 🆕
+## [Visualizza i documenti (117074)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=117074&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -32,7 +32,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (116783)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116783&va=) 🆕
+## [Visualizza i documenti (116783)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116783&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -42,7 +42,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (115981)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115981&va=) 🆕
+## [Visualizza i documenti (115981)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115981&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -52,7 +52,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (115790)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115790&va=) 🆕
+## [Visualizza i documenti (115790)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115790&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, progettazione, edilizia, energ, rigenerazione, PMI
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -62,7 +62,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (116090)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116090&va=) 🆕
+## [Visualizza i documenti (116090)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116090&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, progettazione, edilizia, energ, rigenerazione, PMI, micro impres
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -72,7 +72,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (116911)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116911&va=) 🆕
+## [Visualizza i documenti (116911)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116911&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -82,7 +82,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (116887)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116887&va=) 🆕
+## [Visualizza i documenti (116887)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116887&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: professionist, liberi professionisti, energ, rigenerazione, PMI, micro impres, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
@@ -92,7 +92,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (117534)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=117534&va=) 🆕
+## [Visualizza i documenti (117534)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=117534&va=)
 
 - **Pertinenza:** 60/100 — Parole chiave trovate: professionist, progettazione, rigenerazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
