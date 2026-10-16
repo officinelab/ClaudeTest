@@ -1,70 +1,5 @@
 [
   {
-    "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116543&va=",
-    "fonte": "Sardegna Ricerche - Bandi aperti",
-    "nuovo": false,
-    "primo_rilevamento": "2026-10-08",
-    "errore": null,
-    "titolo": "Visualizza i documenti (116543)",
-    "ente": null,
-    "data_pubblicazione": "2005-04-28",
-    "apertura_domande": "2026-04-27",
-    "scadenza_domande": "2026-10-15",
-    "altre_scadenze": [],
-    "chi_puo_partecipare": "non determinato (analisi senza AI)",
-    "requisiti_principali": [],
-    "tipologia": "altro",
-    "fondo_perduto": "non specificato",
-    "percentuale_fondo_perduto": null,
-    "importo_contributo": null,
-    "dotazione_finanziaria": null,
-    "spese_ammissibili": [],
-    "modalita_presentazione": null,
-    "riassunto": "",
-    "pertinenza": 100,
-    "motivo_pertinenza": "Parole chiave trovate: architett, professionist, liberi professionisti, energ, PMI, micro impres",
-    "note": "Scheda generata senza AI: imposta ANTHROPIC_API_KEY per riassunti completi.",
-    "testo_troncato": false,
-    "analisi": "euristica",
-    "documenti_letti": [
-      {
-        "nome": "Proposte Progettuali [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260831091411.pdf",
-        "errore": null
-      },
-      {
-        "nome": "FAQ al 20.05.2026 [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260520144944.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Avviso pubblico [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260422145354.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Disposizioni attuative [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260422104654.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Allegato A - Proposta Progettuale [file.odt]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260422104707.odt",
-        "errore": null
-      },
-      {
-        "nome": "Allegato B - Manifestazione interesse [file.odt]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260422104725.odt",
-        "errore": null
-      },
-      {
-        "nome": "Allegato C - Richiesta adesione al PIC [file.odt]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260422104740.odt",
-        "errore": null
-      }
-    ]
-  },
-  {
     "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116434&va=",
     "fonte": "Sardegna Ricerche - Bandi aperti",
     "nuovo": false,
@@ -300,6 +235,101 @@
       {
         "nome": "Istruzioni per la presentazione delle domande [file.pdf]",
         "url": "https://www.sardegnaricerche.it/documenti/13_368_20260916085228.pdf",
+        "errore": null
+      }
+    ]
+  },
+  {
+    "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115645&va=",
+    "fonte": "Sardegna Ricerche - Bandi aperti",
+    "nuovo": true,
+    "primo_rilevamento": "2026-10-16",
+    "errore": null,
+    "titolo": "Visualizza i documenti (115645)",
+    "ente": null,
+    "data_pubblicazione": "2014-06-26",
+    "apertura_domande": "2026-03-17",
+    "scadenza_domande": "2027-03-31",
+    "altre_scadenze": [],
+    "chi_puo_partecipare": "non determinato (analisi senza AI)",
+    "requisiti_principali": [],
+    "tipologia": "contributo a fondo perduto",
+    "fondo_perduto": "si",
+    "percentuale_fondo_perduto": null,
+    "importo_contributo": null,
+    "dotazione_finanziaria": null,
+    "spese_ammissibili": [],
+    "modalita_presentazione": null,
+    "riassunto": "",
+    "pertinenza": 100,
+    "motivo_pertinenza": "Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, edilizia, energ, rigenerazione, PMI, micro impres, digitalizzazione",
+    "note": "Scheda generata senza AI: imposta ANTHROPIC_API_KEY per riassunti completi.",
+    "testo_troncato": false,
+    "analisi": "euristica",
+    "documenti_letti": [
+      {
+        "nome": "Elenco aggiornato domande presentate [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260807131152.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Determina di sospensione delle fasi di precaricamento e invio telematico delle domande [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260318162921.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Avviso di sospensione delle fasi di precaricamento e invio telematico delle domande [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_368_20260317133931.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Comunicazione differimento termini invio telematico [file.pdf] [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260226130546.pdf",
+        "errore": null
+      },
+      {
+        "nome": "FAQ aggiornate al 04.03.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260305084543.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Disposizioni Attuative aggiornate al 29.01.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260130092705.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Allegati aggiornati al 29.01.2026 [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260130092746.zip",
+        "errore": null
+      },
+      {
+        "nome": "Guida operativa alla predisposizione del PdD aggiornate al 29.01.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260130092826.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Guida alla procedura per la presentazione domanda aggiornata al 18.02.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260218154506.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Avviso pubblico [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260204114351.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Disposizione attuative [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260115111024.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Allegati [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260115111054.zip",
+        "errore": null
+      },
+      {
+        "nome": "Istruzioni presentazione domanda [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260212155748.pdf",
         "errore": null
       }
     ]
