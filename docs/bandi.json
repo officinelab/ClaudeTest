@@ -113,8 +113,8 @@
         "errore": null
       },
       {
-        "nome": "FAQ aggiornate al 25/09/2026 [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_368_20260925141322.pdf",
+        "nome": "Faq aggiornate al 16/10/2026",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1191_20261016204538.pdf",
         "errore": null
       },
       {
@@ -242,7 +242,7 @@
   {
     "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115645&va=",
     "fonte": "Sardegna Ricerche - Bandi aperti",
-    "nuovo": true,
+    "nuovo": false,
     "primo_rilevamento": "2026-10-16",
     "errore": null,
     "titolo": "Visualizza i documenti (115645)",

@@ -1,6 +1,6 @@
-# Bandi attivi — aggiornamento del 16/10/2026
+# Bandi attivi — aggiornamento del 17/10/2026
 
-10 bandi attivi, 1 nuovi oggi. Ordinati per pertinenza.
+10 bandi attivi, 0 nuovi oggi. Ordinati per pertinenza.
 
 ## [Visualizza i documenti (116434)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116434&va=)
 
@@ -32,7 +32,7 @@ _Riassunto non disponibile._
 
 _Riassunto non disponibile._
 
-## [Visualizza i documenti (115645)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115645&va=) 🆕
+## [Visualizza i documenti (115645)](https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115645&va=)
 
 - **Pertinenza:** 100/100 — Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, edilizia, energ, rigenerazione, PMI, micro impres, digitalizzazione
 - **Ente / fonte:** Sardegna Ricerche - Bandi aperti
