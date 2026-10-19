@@ -1,4 +1,4 @@
-# Bandi attivi — aggiornamento del 18/10/2026
+# Bandi attivi — aggiornamento del 19/10/2026
 
 10 bandi attivi, 0 nuovi oggi. Ordinati per pertinenza.
 
