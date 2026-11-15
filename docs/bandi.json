@@ -1,80 +1,5 @@
 [
   {
-    "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=116434&va=",
-    "fonte": "Sardegna Ricerche - Bandi aperti",
-    "nuovo": false,
-    "primo_rilevamento": "2026-10-08",
-    "errore": null,
-    "titolo": "Visualizza i documenti (116434)",
-    "ente": null,
-    "data_pubblicazione": "2005-04-28",
-    "apertura_domande": "2026-06-16",
-    "scadenza_domande": "2026-11-15",
-    "altre_scadenze": [],
-    "chi_puo_partecipare": "non determinato (analisi senza AI)",
-    "requisiti_principali": [],
-    "tipologia": "contributo a fondo perduto",
-    "fondo_perduto": "si",
-    "percentuale_fondo_perduto": "100%",
-    "importo_contributo": null,
-    "dotazione_finanziaria": null,
-    "spese_ammissibili": [],
-    "modalita_presentazione": null,
-    "riassunto": "",
-    "pertinenza": 100,
-    "motivo_pertinenza": "Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, energ, rigenerazione, PMI, digitalizzazione",
-    "note": "Scheda generata senza AI: imposta ANTHROPIC_API_KEY per riassunti completi.",
-    "testo_troncato": false,
-    "analisi": "euristica",
-    "documenti_letti": [
-      {
-        "nome": "Avviso seconda proroga Bando Reti Turistiche signed signed [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20261110124948.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Bando Reti Turistiche Disposizioni Attuative Aggiornate_11/12/2026 [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20261110124807.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Avviso proroga Bando Reti Turistiche del 06/08/2026 [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260806151705.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Determinazione DG n. 624/2026 DIR del 06/08/2026 (proroga termini) [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_368_20260806151419.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Disposizioni attuative aggiornate [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260806151640.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Avviso pubblico [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260408140207.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Disposizioni attuative [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260408140426.pdf",
-        "errore": null
-      },
-      {
-        "nome": "Allegati [file.zip]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260408140239.zip",
-        "errore": null
-      },
-      {
-        "nome": "Faq aggiornate al 05/11/2026 [file.pdf]",
-        "url": "https://www.sardegnaricerche.it/documenti/13_1191_20261109134546.pdf",
-        "errore": null
-      }
-    ]
-  },
-  {
     "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=117074&va=",
     "fonte": "Sardegna Ricerche - Bandi aperti",
     "nuovo": false,
@@ -340,6 +265,106 @@
       {
         "nome": "Istruzioni presentazione domanda [file.pdf]",
         "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260212155748.pdf",
+        "errore": null
+      }
+    ]
+  },
+  {
+    "url": "https://www.sardegnaricerche.it/index.php?xsl=558&tipodoc=3&esito=0&scaduti=0&s=13&v=9&c=4200&c1=4200&id=115637&va=",
+    "fonte": "Sardegna Ricerche - Bandi aperti",
+    "nuovo": true,
+    "primo_rilevamento": "2026-11-15",
+    "errore": null,
+    "titolo": "Visualizza i documenti (115637)",
+    "ente": null,
+    "data_pubblicazione": "2005-10-12",
+    "apertura_domande": "2026-02-16",
+    "scadenza_domande": "2027-07-31",
+    "altre_scadenze": [],
+    "chi_puo_partecipare": "non determinato (analisi senza AI)",
+    "requisiti_principali": [],
+    "tipologia": "contributo a fondo perduto",
+    "fondo_perduto": "si",
+    "percentuale_fondo_perduto": null,
+    "importo_contributo": null,
+    "dotazione_finanziaria": null,
+    "spese_ammissibili": [],
+    "modalita_presentazione": null,
+    "riassunto": "",
+    "pertinenza": 100,
+    "motivo_pertinenza": "Parole chiave trovate: architett, professionist, liberi professionisti, progettazione, edilizia, energ, rigenerazione, PMI, micro impres, digitalizzazione",
+    "note": "Scheda generata senza AI: imposta ANTHROPIC_API_KEY per riassunti completi.",
+    "testo_troncato": false,
+    "analisi": "euristica",
+    "documenti_letti": [
+      {
+        "nome": "Elenco domande pervenute in ordine di arrivo [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260701100255.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Determina DG 353-2026 [file.p7m]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260701100311.pdf.p7m",
+        "errore": "formato non supportato (application/pkcs7-mime)"
+      },
+      {
+        "nome": "Determina sostituzione Disposizioni attuative e Allegati [file.p7m]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260318163710.pdf.p7m",
+        "errore": "formato non supportato (application/pkcs7-mime)"
+      },
+      {
+        "nome": "Allegati aggiornati al 18.03.2026 [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260318163738.zip",
+        "errore": null
+      },
+      {
+        "nome": "Disposizioni Attuative aggiornate al 18.03.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260318163753.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Determina DG 65 del 13.02.2026_Rendicontazione SAL intermedio [file.p7m]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260216120439.pdf.p7m",
+        "errore": "formato non supportato (application/pkcs7-mime)"
+      },
+      {
+        "nome": "Disposizioni Attuative aggiornate 13.02.2026_Rendicontazione SAL intermedio [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260216120457.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Allegati aggiornati 13.02.2026_Rendicontazione SAL intermedio [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260216120512.zip",
+        "errore": null
+      },
+      {
+        "nome": "Allegati - rettificati il 23/01/2026 [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260123110621.zip",
+        "errore": null
+      },
+      {
+        "nome": "Determinazione rettifica allegati [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260205105644.pdf.p7m",
+        "errore": "formato non supportato (application/pkcs7-mime)"
+      },
+      {
+        "nome": "Avviso pubblico [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20251223145529.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Disposizioni attuative [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_368_20260121114602.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Allegati [file.zip]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1019_20260205105722.zip",
+        "errore": null
+      },
+      {
+        "nome": "FAQ aggiornate al 6.2.2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_1109_20260206121007.pdf",
         "errore": null
       }
     ]
