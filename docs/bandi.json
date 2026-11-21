@@ -118,12 +118,22 @@
     "analisi": "euristica",
     "documenti_letti": [
       {
+        "nome": "Avviso di proroga del 19/11/2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_368_20261120170903.pdf",
+        "errore": null
+      },
+      {
+        "nome": "Disposizioni attuative rettificate il 19/11/2026 [file.pdf]",
+        "url": "https://www.sardegnaricerche.it/documenti/13_368_20261120171652.pdf",
+        "errore": null
+      },
+      {
         "nome": "Avviso di rettifica del 18/09/2026 [file.pdf]",
         "url": "https://www.sardegnaricerche.it/documenti/13_368_20260921130605.pdf",
         "errore": null
       },
       {
-        "nome": "Disposizioni attuative rettificate [file.pdf]",
+        "nome": "Disposizioni attuative rettificate il 18/09/2026 [file.pdf]",
         "url": "https://www.sardegnaricerche.it/documenti/13_368_20260921130814.pdf",
         "errore": null
       },
